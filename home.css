@@ -2,7 +2,6 @@ font-family: 'PT Mono', monospace;
 
 h2 {
   color: white;
-  text-align: center;
 }
 
 body {
@@ -17,6 +16,8 @@ body {
 
 .left {
   width: 30%;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #150b00;
 }
 
