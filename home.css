@@ -16,6 +16,7 @@ body {
 
 .left {
   width: 30%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   background-color: #150b00;
