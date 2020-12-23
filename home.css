@@ -7,8 +7,10 @@ font-family: 'PT Mono', monospace;
 
 .left {
   width: 30%;
+  background-color: #150b00;
 }
 
 .right {
   width: 70%;
+  background-color: #1a0d00;
 }
