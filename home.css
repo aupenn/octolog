@@ -1,9 +1,13 @@
 font-family: 'PT Mono', monospace;
 
+p {
+  color: #ffc600;
+}
+
+
 .column {
   float: left;
   padding: 10px;
-  color: #ffc600;
 }
 
 .left {
