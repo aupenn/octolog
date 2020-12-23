@@ -1,5 +1,9 @@
 font-family: 'PT Mono', monospace;
 
+h2 {
+  text-align: center;
+}
+
 body {
   color: #ffc600;
 }
